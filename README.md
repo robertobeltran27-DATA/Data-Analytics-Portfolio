@@ -1,16 +1,12 @@
-Portafolio de Análisis de Datos | Ing. Jose Roberto Beltrán
-Sobre mí
-Ingeniero Industrial con experiencia sólida en logística (Coppel / Manhattan WMS) transformando datos operativos en decisiones estratégicas.
+Proyecto: Análisis de Movilidad Urbana
+Descripción del problema: Análisis de la relación entre el tráfico y el PIB en 100 ciudades para identificar ineficiencias económicas.
 
-Proyectos Destacados
-1. Análisis de Movilidad Urbana (TripleTen)
-Descripción: Estudio de la relación entre tráfico vial y productividad económica.
+Tecnologías usadas: > * Python (Pandas, Matplotlib, Seaborn)
 
-Herramientas: Python (Pandas, Seaborn), SQL.
+Jupyter Notebooks
 
-Resultado: Identificación de áreas de mejora en competitividad logística.
+SQL para extracción de datos.
 
-Contacto
-LinkedIn: www.linkedin.com/in/josé-roberto-beltrán-franco-870bab267
-
-Email: robertobeltran.27@gmail.com
+Cómo ejecutarlo: > 1. Clonar el repositorio.
+2. Abrir el archivo .ipynb en Jupyter Notebook o Google Colab.
+3. Ejecutar todas las celdas para ver las visualizaciones.
